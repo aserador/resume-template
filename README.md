@@ -9,15 +9,15 @@ The resume features five main sections: header, education, experience, projects,
 Note: the text on this template was automatically generated.
 
 ### Quick Start
-To get started quickly, you can find this template on Overleaf for your own resume needs here:
-https://www.overleaf.com/latex/templates/swe-resume-template/bznbzdprjfyy
+To get started quickly, you can find this template on Overleaf for your own resume needs [here](https://www.overleaf.com/latex/templates/swe-resume-template/bznbzdprjfyy).
+
 
 ### Info
-The font used in this resume is Lato: 
-https://fonts.google.com/specimen/Lato
+The font used in this resume is [Lato](https://fonts.google.com/specimen/Lato). 
 
-Icons were imported from fontawesome5:
-https://fontawesome.com/v5/search
+
+Icons were imported from [fontawesome5](https://fontawesome.com/v5/search).
+
 
 ### License
 This resume is held under the MIT license.
