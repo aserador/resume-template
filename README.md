@@ -15,6 +15,8 @@ To get started quickly, you can find this template on Overleaf for your own resu
 ### Info
 The font used in this resume is Lato: https://fonts.google.com/specimen/Lato
 
+Icons were imported from fontawesome5:
+https://fontawesome.com/v5/search
 
 ### License
 This resume is held under the MIT license.
