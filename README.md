@@ -10,10 +10,11 @@ Note: the text on this template was automatically generated.
 
 ### Quick Start
 To get started quickly, you can find this template on Overleaf for your own resume needs here:
-<a href="https://overleaf.com/">Link (yet to be added)</a>
+https://www.overleaf.com/latex/templates/swe-resume-template/bznbzdprjfyy
 
 ### Info
-The font used in this resume is Lato: https://fonts.google.com/specimen/Lato
+The font used in this resume is Lato: 
+https://fonts.google.com/specimen/Lato
 
 Icons were imported from fontawesome5:
 https://fontawesome.com/v5/search
